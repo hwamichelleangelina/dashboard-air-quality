@@ -412,4 +412,4 @@ elif page == "Konsentrasi Polutan dalam Sehari di Beijing":
     """)
 
 st.sidebar.markdown('<div class="sidebar-footer">📊 Dashboard Kualitas Udara Beijing</div>', unsafe_allow_html=True)
-st.sidebar.write("Data Analysis Project | mchelle.angelina © Dicoding Indonesia 2024")
+st.sidebar.write("Data Analysis Project | mchelle_angelina © Dicoding Indonesia 2024")
